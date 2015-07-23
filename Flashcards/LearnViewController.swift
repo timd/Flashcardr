@@ -9,6 +9,10 @@
 import UIKit
 import RealmSwift
 
+protocol LearnCellDelegateProtocol : class {
+    func didRevealAnswerForCell(cell: LearnCollectionViewCell)
+}
+
 class LearnViewController: UIViewController {
     
     @IBOutlet weak var cardCV: UICollectionView!
@@ -77,6 +81,8 @@ extension LearnViewController: UICollectionViewDataSource {
 
         let cell = cardCV.dequeueReusableCellWithReuseIdentifier(kCardCellIdentifier, forIndexPath: indexPath) as! LearnCollectionViewCell
         
+        cell.delegate = self
+        
         let random = Int(arc4random_uniform(3))
         
         if (random % 2) == 0 {
@@ -138,6 +144,24 @@ extension LearnViewController: UICollectionViewDelegate {
             cellTitle.textColor = UIColor.blackColor()
         }
         
+    }
+    
+}
+
+extension LearnViewController : LearnCellDelegateProtocol {
+    
+    func didRevealAnswerForCell(cell: LearnCollectionViewCell) {
+        
+        let indexPath = cardCV.indexPathForCell(cell)
+
+        let section: Section = sectionData[indexPath!.section]
+        let cardsInSection = section.cards
+        let card = cardsInSection[indexPath!.row]
+        
+        Realm().write {
+            card.score++
+        }
+
     }
     
 }

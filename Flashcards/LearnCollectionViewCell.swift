@@ -9,6 +9,8 @@
 import UIKit
 
 class LearnCollectionViewCell: UICollectionViewCell {
+    
+    weak var delegate: LearnCellDelegateProtocol?
 
     @IBOutlet weak var mainGeschlecht: UILabel!
     @IBOutlet weak var mainAntwort: UILabel!
@@ -44,6 +46,9 @@ class LearnCollectionViewCell: UICollectionViewCell {
     func didTapInCell() {
         antwortGeschlect.hidden = false
         antwortWort.hidden = false
+        
+        delegate?.didRevealAnswerForCell(self)
+        
     }
     
     func updateUI() {
