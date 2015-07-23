@@ -1,0 +1,164 @@
+{
+    "words": [
+              {
+              "deutsch": "das",
+              "englisch": "the (definitive article; nominative/accusative singular neuter of ",
+              "geschlecht": null,
+              "rank": 1,
+              "section": "nouns",
+              "teil": "definitive article; demonstrative pronoun; relative pronoun"
+              },
+              {
+              "deutsch": "ist",
+              "englisch": "(he/she/it) is (3rd-person singular present of ",
+              "geschlecht": null,
+              "rank": 2,
+              "section": "nouns",
+              "teil": "verb"
+              },
+              {
+              "deutsch": "du",
+              "englisch": "you (informal; addressing one person)",
+              "geschlecht": null,
+              "rank": 3,
+              "section": "nouns",
+              "teil": "personal pronoun"
+              },
+              {
+              "deutsch": "ich",
+              "englisch": "I (not capitalized unless it is in the beginning of a sentence); ego (capitalized - Ich)",
+              "geschlecht": null,
+              "rank": 4,
+              "section": "nouns",
+              "teil": "personal pronoun; noun"
+              },
+              {
+              "deutsch": "nicht",
+              "englisch": "not",
+              "geschlecht": null,
+              "rank": 5,
+              "section": "nouns",
+              "teil": "adverb"
+              },
+              {
+              "deutsch": "die",
+              "englisch": "the (definitive article; nominative/accusative, singular feminine or plural form of der); that, which, who (relative pronoun); this one, that one, these ones, those ones (demonstrative pronoun)",
+              "geschlecht": null,
+              "rank": 6,
+              "section": "nouns",
+              "teil": "definitive article; demonstrative pronoun; relative pronoun"
+              },
+              {
+              "deutsch": "es",
+              "englisch": "it (neuter gender)",
+              "geschlecht": null,
+              "rank": 7,
+              "section": "nouns",
+              "teil": "personal pronoun"
+              },
+              {
+              "deutsch": "und",
+              "englisch": "and",
+              "geschlecht": null,
+              "rank": 8,
+              "section": "nouns",
+              "teil": "conjunction"
+              },
+              {
+              "deutsch": "Sie",
+              "englisch": "you (polite or formal; addressing one person or a group of people)",
+              "geschlecht": null,
+              "rank": 9,
+              "section": "nouns",
+              "teil": "personal pronoun"
+              },
+              {
+              "deutsch": "der",
+              "englisch": "the (definite article; nominitive singular masculine, genitive/dative singular feminine, genitive plural); who, that, which (relative pronoun, singular)",
+              "geschlecht": null,
+              "rank": 10,
+              "section": "nouns",
+              "teil": "definitive article; relative pronoun"
+              },
+              {
+              "deutsch": "was",
+              "englisch": "what (interrogative); which (relative)",
+              "geschlecht": null,
+              "rank": 11,
+              "section": "adjectives",
+              "teil": "interrogative pronoun, relative pronoun"
+              },
+              {
+              "deutsch": "wir",
+              "englisch": "we (nominative plural)",
+              "geschlecht": null,
+              "rank": 12,
+              "section": "adjectives",
+              "teil": "personal pronoun"
+              },
+              {
+              "deutsch": "zu",
+              "englisch": "to, in, at, on, into, for (preposition); too; to, towards; closed, shut (adverb)",
+              "geschlecht": null,
+              "rank": 13,
+              "section": "adjectives",
+              "teil": "preposition; adverb"
+              },
+              {
+              "deutsch": "ein",
+              "englisch": "a, an (indefinite article; masculine and neuter nominative; neuter accusative); one (number)",
+              "geschlecht": null,
+              "rank": 14,
+              "section": "adjectives",
+              "teil": "indefinite article, cardinal number"
+              },
+              {
+              "deutsch": "er",
+              "englisch": "he, it (masculine)",
+              "geschlecht": null,
+              "rank": 15,
+              "section": "adjectives",
+              "teil": "personal pronoun"
+              },
+              {
+              "deutsch": "in",
+              "englisch": "in, within, at, pertaining to (in + dative); into (in + accusative)",
+              "geschlecht": null,
+              "rank": 16,
+              "section": "reflexiveVerbs",
+              "teil": "preposition"
+              },
+              {
+              "deutsch": "sie",
+              "englisch": "she, it (feminine); they, you (plural)",
+              "geschlecht": null,
+              "rank": 17,
+              "section": "reflexiveVerbs",
+              "teil": "personal pronoun"
+              },
+              {
+              "deutsch": "mir",
+              "englisch": "me, to me (dative singular of ",
+              "geschlecht": null,
+              "rank": 18,
+              "section": "reflexiveVerbs",
+              "teil": "personal pronoun"
+              },
+              {
+              "deutsch": "mit",
+              "englisch": "with",
+              "geschlecht": null,
+              "rank": 19,
+              "section": "",
+              "teil": "preposition"
+              },
+              {
+              "deutsch": "ja",
+              "englisch": "yes; really, definitely; of course (adverb); a yes (capitalized as a noun - Ja)",
+              "geschlecht": null,
+              "rank": 20,
+              "section": "",
+              "teil": "adverb, noun"
+              }
+              ]
+}
