@@ -14,8 +14,6 @@ class Card: Object {
     dynamic var sortOrder: Int = 0
     dynamic var deutsch: String = ""
     dynamic var englisch: String = ""
-    dynamic var geschlecht: String = ""
-    dynamic var teil: String = ""
     dynamic var score: Int = 0
     
     let sections = List<Section>()

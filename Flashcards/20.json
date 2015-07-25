@@ -1,164 +1,2844 @@
 {
     "words": [
-              {
-              "deutsch": "das",
-              "englisch": "the (definitive article; nominative/accusative singular neuter of ",
-              "geschlecht": null,
-              "rank": 1,
-              "section": "nouns",
-              "teil": "definitive article; demonstrative pronoun; relative pronoun"
-              },
-              {
-              "deutsch": "ist",
-              "englisch": "(he/she/it) is (3rd-person singular present of ",
-              "geschlecht": null,
-              "rank": 2,
-              "section": "nouns",
-              "teil": "verb"
-              },
-              {
-              "deutsch": "du",
-              "englisch": "you (informal; addressing one person)",
-              "geschlecht": null,
-              "rank": 3,
-              "section": "nouns",
-              "teil": "personal pronoun"
-              },
-              {
-              "deutsch": "ich",
-              "englisch": "I (not capitalized unless it is in the beginning of a sentence); ego (capitalized - Ich)",
-              "geschlecht": null,
-              "rank": 4,
-              "section": "nouns",
-              "teil": "personal pronoun; noun"
-              },
-              {
-              "deutsch": "nicht",
-              "englisch": "not",
-              "geschlecht": null,
-              "rank": 5,
-              "section": "nouns",
-              "teil": "adverb"
-              },
-              {
-              "deutsch": "die",
-              "englisch": "the (definitive article; nominative/accusative, singular feminine or plural form of der); that, which, who (relative pronoun); this one, that one, these ones, those ones (demonstrative pronoun)",
-              "geschlecht": null,
-              "rank": 6,
-              "section": "nouns",
-              "teil": "definitive article; demonstrative pronoun; relative pronoun"
-              },
-              {
-              "deutsch": "es",
-              "englisch": "it (neuter gender)",
-              "geschlecht": null,
-              "rank": 7,
-              "section": "nouns",
-              "teil": "personal pronoun"
-              },
-              {
-              "deutsch": "und",
-              "englisch": "and",
-              "geschlecht": null,
-              "rank": 8,
-              "section": "nouns",
-              "teil": "conjunction"
-              },
-              {
-              "deutsch": "Sie",
-              "englisch": "you (polite or formal; addressing one person or a group of people)",
-              "geschlecht": null,
-              "rank": 9,
-              "section": "nouns",
-              "teil": "personal pronoun"
-              },
-              {
-              "deutsch": "der",
-              "englisch": "the (definite article; nominitive singular masculine, genitive/dative singular feminine, genitive plural); who, that, which (relative pronoun, singular)",
-              "geschlecht": null,
-              "rank": 10,
-              "section": "nouns",
-              "teil": "definitive article; relative pronoun"
-              },
-              {
-              "deutsch": "was",
-              "englisch": "what (interrogative); which (relative)",
-              "geschlecht": null,
-              "rank": 11,
-              "section": "adjectives",
-              "teil": "interrogative pronoun, relative pronoun"
-              },
-              {
-              "deutsch": "wir",
-              "englisch": "we (nominative plural)",
-              "geschlecht": null,
-              "rank": 12,
-              "section": "adjectives",
-              "teil": "personal pronoun"
-              },
-              {
-              "deutsch": "zu",
-              "englisch": "to, in, at, on, into, for (preposition); too; to, towards; closed, shut (adverb)",
-              "geschlecht": null,
-              "rank": 13,
-              "section": "adjectives",
-              "teil": "preposition; adverb"
-              },
-              {
-              "deutsch": "ein",
-              "englisch": "a, an (indefinite article; masculine and neuter nominative; neuter accusative); one (number)",
-              "geschlecht": null,
-              "rank": 14,
-              "section": "adjectives",
-              "teil": "indefinite article, cardinal number"
-              },
-              {
-              "deutsch": "er",
-              "englisch": "he, it (masculine)",
-              "geschlecht": null,
-              "rank": 15,
-              "section": "adjectives",
-              "teil": "personal pronoun"
-              },
-              {
-              "deutsch": "in",
-              "englisch": "in, within, at, pertaining to (in + dative); into (in + accusative)",
-              "geschlecht": null,
-              "rank": 16,
-              "section": "reflexiveVerbs",
-              "teil": "preposition"
-              },
-              {
-              "deutsch": "sie",
-              "englisch": "she, it (feminine); they, you (plural)",
-              "geschlecht": null,
-              "rank": 17,
-              "section": "reflexiveVerbs",
-              "teil": "personal pronoun"
-              },
-              {
-              "deutsch": "mir",
-              "englisch": "me, to me (dative singular of ",
-              "geschlecht": null,
-              "rank": 18,
-              "section": "reflexiveVerbs",
-              "teil": "personal pronoun"
-              },
-              {
-              "deutsch": "mit",
-              "englisch": "with",
-              "geschlecht": null,
-              "rank": 19,
-              "section": "",
-              "teil": "preposition"
-              },
-              {
-              "deutsch": "ja",
-              "englisch": "yes; really, definitely; of course (adverb); a yes (capitalized as a noun - Ja)",
-              "geschlecht": null,
-              "rank": 20,
-              "section": "",
-              "teil": "adverb, noun"
-              }
-              ]
+        {
+            "deutsch": "sein geblieben",
+            "englisch": "have stayed",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "haben gebracht",
+            "englisch": "have brought",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "haben gedacht",
+            "englisch": "have thought",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "haben gegessen",
+            "englisch": "have eaten",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "sein gefahren",
+            "englisch": "have travelled",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "haben gefunden",
+            "englisch": "have found",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "haben geheissen",
+            "englisch": "have been called",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "haben gegeben",
+            "englisch": "have given",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "sein gegangen",
+            "englisch": "have gone",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "sein gekommen",
+            "englisch": "have come",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "haben gelassen",
+            "englisch": "have allowed",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "haben gelesen",
+            "englisch": "have read",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "haben genommen",
+            "englisch": "have taken",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "sein gereist",
+            "englisch": "have journeyed",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "haben geschrieben",
+            "englisch": "have written",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "haben geshlafen",
+            "englisch": "have slept",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "sein gewesen",
+            "englisch": "have been",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "haben gesehen",
+            "englisch": "have seen",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "haben gesprochen",
+            "englisch": "have spoken",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "haben getrunken",
+            "englisch": "have drunk",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "haben getan",
+            "englisch": "have done",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "sein geworden",
+            "englisch": "have become",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "haben gewusst",
+            "englisch": "have known",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "sein geflogen",
+            "englisch": "have flown",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "haben bekommen",
+            "englisch": "have received",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "haben geboten",
+            "englisch": "have offered",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "haben vergessen",
+            "englisch": "have forgotten",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "haben verlassen",
+            "englisch": "have left",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "haben verstanden",
+            "englisch": "have understood",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "sein geboren",
+            "englisch": "have been born",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "haben gefallen",
+            "englisch": "has felt",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "sein gefallen",
+            "englisch": "has fallen",
+            "section": "Perfect tense irregular"
+        },
+        {
+            "deutsch": "haben gedr\u00fcckt",
+            "englisch": "have printed",
+            "section": "Perfect tense regular"
+        },
+        {
+            "deutsch": "haben geantwotet",
+            "englisch": "have answered",
+            "section": "Perfect tense regular"
+        },
+        {
+            "deutsch": "haben gearbeitet",
+            "englisch": "have worked",
+            "section": "Perfect tense regular"
+        },
+        {
+            "deutsch": "haben gebraucht",
+            "englisch": "have needed",
+            "section": "Perfect tense regular"
+        },
+        {
+            "deutsch": "haben gedurft",
+            "englisch": "have been allowed",
+            "section": "Perfect tense regular"
+        },
+        {
+            "deutsch": "haben gefragt",
+            "englisch": "have asked",
+            "section": "Perfect tense regular"
+        },
+        {
+            "deutsch": "haben gehabt",
+            "englisch": "have had",
+            "section": "Perfect tense regular"
+        },
+        {
+            "deutsch": "haben geglaubt",
+            "englisch": "have believed",
+            "section": "Perfect tense regular"
+        },
+        {
+            "deutsch": "haben gekonnt",
+            "englisch": "have been able to",
+            "section": "Perfect tense regular"
+        },
+        {
+            "deutsch": "haben gemacht",
+            "englisch": "have made",
+            "section": "Perfect tense regular"
+        },
+        {
+            "deutsch": "haben gemocht",
+            "englisch": "have wanted",
+            "section": "Perfect tense regular"
+        },
+        {
+            "deutsch": "haben gemusst",
+            "englisch": "have had to",
+            "section": "Perfect tense regular"
+        },
+        {
+            "deutsch": "haben gesagt",
+            "englisch": "have said",
+            "section": "Perfect tense regular"
+        },
+        {
+            "deutsch": "haben gesollen",
+            "englisch": "should have",
+            "section": "Perfect tense regular"
+        },
+        {
+            "deutsch": "haben gespielt",
+            "englisch": "have played",
+            "section": "Perfect tense regular"
+        },
+        {
+            "deutsch": "haben gewollt",
+            "englisch": "have wanted",
+            "section": "Perfect tense regular"
+        },
+        {
+            "deutsch": "haben gehort",
+            "englisch": "have heard",
+            "section": "Perfect tense regular"
+        },
+        {
+            "deutsch": "sein gezogen",
+            "englisch": "have pulled (moved house)",
+            "section": "Perfect tense regular"
+        },
+        {
+            "deutsch": "haben besprochen",
+            "englisch": "have discussed",
+            "section": "Perfect tense regular"
+        },
+        {
+            "deutsch": "haben gebunden",
+            "englisch": "have bound together",
+            "section": "Perfect tense regular"
+        },
+        {
+            "deutsch": "haben stattgefunden",
+            "englisch": "have taken place",
+            "section": "Perfect tense regular"
+        },
+        {
+            "deutsch": "sein umgestiegen",
+            "englisch": "have changed",
+            "section": "Perfect tense regular"
+        },
+        {
+            "deutsch": "haben gedauert",
+            "englisch": "have lasted",
+            "section": "Perfect tense regular"
+        },
+        {
+            "deutsch": "haben angerufen",
+            "englisch": "have called",
+            "section": "Perfect tense separable"
+        },
+        {
+            "deutsch": "haben teilgenommen",
+            "englisch": "have participated",
+            "section": "Perfect tense separable"
+        },
+        {
+            "deutsch": "sein abgefahren",
+            "englisch": "have left",
+            "section": "Perfect tense separable"
+        },
+        {
+            "deutsch": "haben abgegeben",
+            "englisch": "have delivered",
+            "section": "Perfect tense separable"
+        },
+        {
+            "deutsch": "haben abgenommen",
+            "englisch": "have taken off",
+            "section": "Perfect tense separable"
+        },
+        {
+            "deutsch": "haben zugenommen",
+            "englisch": "have increased/gained",
+            "section": "Perfect tense separable"
+        },
+        {
+            "deutsch": "sein angezogen",
+            "englisch": "have put on",
+            "section": "Perfect tense separable"
+        },
+        {
+            "deutsch": "haben entnommen",
+            "englisch": "have taken from",
+            "section": "Perfect tense separable"
+        },
+        {
+            "deutsch": "haben eingeladen",
+            "englisch": "have invited",
+            "section": "Perfect tense separable"
+        },
+        {
+            "deutsch": "haben mitgenommen",
+            "englisch": "have taken with",
+            "section": "Perfect tense separable"
+        },
+        {
+            "deutsch": "binden",
+            "englisch": "to bind",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "bieten",
+            "englisch": "to offer",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "statt|finden",
+            "englisch": "to take place",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "um|steigen",
+            "englisch": "to change/switch",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "an|ziehen",
+            "englisch": "to put on (clothes)",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "aus|ziehen",
+            "englisch": "to take off (clothes)",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "un|ziehen",
+            "englisch": "to change (clothes)",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "ab|nehmen",
+            "englisch": "to take off",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "zu|nehmen",
+            "englisch": "to increase",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "ent|nehmen",
+            "englisch": "to take from",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "ein|laden",
+            "englisch": "to invite",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "mit|nehmen",
+            "englisch": "to take with",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "mit|bringen",
+            "englisch": "to bring with",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "auf|r\u00e4umen",
+            "englisch": "to tidy up",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "ein|r\u00e4umen",
+            "englisch": "to put away",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "ab|r\u00e4umen",
+            "englisch": "to clear away",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "um|r\u00e4umen",
+            "englisch": "to rearrange",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "schaffen",
+            "englisch": "to create",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "unterstreichen",
+            "englisch": "to underline",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "unterschrieben",
+            "englisch": "to sign",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "verlassen",
+            "englisch": "to leave",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "fest|stellen",
+            "englisch": "to find out/diagnose",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "um|ziehen",
+            "englisch": "to move",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "an|fangen",
+            "englisch": "to begin",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "verdienen",
+            "englisch": "to earn",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "ab|fahren",
+            "englisch": "to depart",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "beantragen",
+            "englisch": "to apply for",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "mit|kommen",
+            "englisch": "to come with",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "berichten",
+            "englisch": "to report",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "entscheiden",
+            "englisch": "to decide",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "bestimmen",
+            "englisch": "to determine/classify",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "kennen|lernen",
+            "englisch": "to get to know",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "werfen",
+            "englisch": "to throw",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "entspannen",
+            "englisch": "to relax",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "erholen",
+            "englisch": "to recover",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "vergleichen",
+            "englisch": "to compare",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "folgen",
+            "englisch": "to follow",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "ein|schalten",
+            "englisch": "to switch on (a light)",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "aus|schalten",
+            "englisch": "to switch off",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "an|schalten",
+            "englisch": "to switch on ",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "schulden",
+            "englisch": "to owe",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "wahlen",
+            "englisch": "to choose",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "sch\u00fclteln",
+            "englisch": "to shake",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "speichern",
+            "englisch": "to save",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "aus|dr\u00fccken",
+            "englisch": "to print out",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "verbraucht",
+            "englisch": "to consume",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "fortsetzen",
+            "englisch": "to continue",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "mengen",
+            "englisch": "to mingle",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "aus|geben",
+            "englisch": "to issue, give out",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "verkleidet",
+            "englisch": "to dress up",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "ern\u00e4hren",
+            "englisch": "to feed",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "stellen",
+            "englisch": "to put (upright)",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "stehen",
+            "englisch": "to stand",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "legen",
+            "englisch": "to lay (flat)",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "liegen",
+            "englisch": "to lie",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "setzen",
+            "englisch": "to set (down)",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "sitzen",
+            "englisch": "to sit (still)",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "h\u00e4ngen",
+            "englisch": "to hang",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "verbringen",
+            "englisch": "to spend (time with)",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "hin|gehen",
+            "englisch": "to go (there)",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "hauen",
+            "englisch": "to slap",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "feiern",
+            "englisch": "to celebrate",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "an|melden",
+            "englisch": "to announce",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "erleben",
+            "englisch": "to experience/live through",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "zubereiten",
+            "englisch": "to prepare",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "betreuen",
+            "englisch": "to look after",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "auf|passen",
+            "englisch": "to keep an eye on",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "steuern",
+            "englisch": "to steer/pilot",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "verbinden",
+            "englisch": "to bandage",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "streichen",
+            "englisch": "to smooth, spread, apply",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "streicheln",
+            "englisch": "to stroke",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "drucken",
+            "englisch": "to print",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "besprechen",
+            "englisch": "to discuss",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "verschieben",
+            "englisch": "to move",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "anschauen",
+            "englisch": "to look at",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "helfen",
+            "englisch": "to help",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "gratulieren",
+            "englisch": "to congratulate",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "schenken",
+            "englisch": "to give gifts",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "gefallen",
+            "englisch": "to please",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "leihen",
+            "englisch": "to lend",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "kaufen",
+            "englisch": "to buy",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "erz\u00e4hlen",
+            "englisch": "to tell",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "erkl\u00e4ren",
+            "englisch": "to explain",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "vorlesen",
+            "englisch": "to read aloud",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "schicken",
+            "englisch": "to send",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "zeigen",
+            "englisch": "to point",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "fr\u00fchstucken",
+            "englisch": "to eat breakfast",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "ein|kaufen",
+            "englisch": "to shop",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "zu|sagen",
+            "englisch": "to promise",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "ab|sagen",
+            "englisch": "to cancel",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "vor|stellen",
+            "englisch": "to introduce",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "verlieben",
+            "englisch": "to fall in love",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "strieten",
+            "englisch": "to argue",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "trennen",
+            "englisch": "to separate",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "treffen",
+            "englisch": "to meet",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "\u00fcberraschen",
+            "englisch": "to surprise",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "versch\u00f6nen",
+            "englisch": "to improve (the appearance of)",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "bewerben",
+            "englisch": "to apply for",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "unterhalten",
+            "englisch": "to discuss",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "geheul",
+            "englisch": "cry loudly",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "pendeln",
+            "englisch": "to commute",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "verl\u00e4ngern",
+            "englisch": "to extend",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "aussuchen",
+            "englisch": "to pick",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "probieren",
+            "englisch": "to try",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "versuchen",
+            "englisch": "to try, attempt",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "beachten",
+            "englisch": "to comply",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "tapezieren",
+            "englisch": "to wallpaper",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "schwitzen",
+            "englisch": "to sweat",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "heiraten",
+            "englisch": "to marry",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "verheiraten",
+            "englisch": "to get married",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "nahen",
+            "englisch": "to sew",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "existenz|gr\u00fcnden",
+            "englisch": "to set up ones own business",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "erstellen",
+            "englisch": "to draw up (a plan)",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "g\u00e4hnen",
+            "englisch": "to yawn",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "beraten",
+            "englisch": "to advise",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "verschlafen",
+            "englisch": "to oversleep",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "schimpfen",
+            "englisch": "to curse",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "betteln",
+            "englisch": "to beg",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "runterladen",
+            "englisch": "to download",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "st\u00f6ren",
+            "englisch": "to disturb",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "untersuchen",
+            "englisch": "to examine, scrutinise",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "verschreiben",
+            "englisch": "to prescribe",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "lassen",
+            "englisch": "to let",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "vorbeikommen",
+            "englisch": "to call in",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "beissen",
+            "englisch": "to bite",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "stechen",
+            "englisch": "to sting",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "l\u00fcgen",
+            "englisch": "to lie",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "steigen",
+            "englisch": "to go up",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "sinken",
+            "englisch": "to go down",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "aus|steigen",
+            "englisch": "to get off",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "ein|steigen",
+            "englisch": "to get in",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "um|steigen",
+            "englisch": "to change",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "auf|steigen",
+            "englisch": "to climb up",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "vor|bereiten",
+            "englisch": "to prepare beforehand",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "unterbrechen",
+            "englisch": "to interrupt",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "ausreden lassen",
+            "englisch": "to allow to finish",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "beschreiben",
+            "englisch": "to describe",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "an|kommen",
+            "englisch": "to arrive",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "bekommen",
+            "englisch": "to receive",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "besichtigen",
+            "englisch": "to look around/sightsee",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "buchen",
+            "englisch": "to book",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "vergn\u00fcgen",
+            "englisch": "to amuse",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "vor|schlagen",
+            "englisch": "to suggest",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "atmen",
+            "englisch": "to breathe",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "erfahren",
+            "englisch": "to learn",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "behalten",
+            "englisch": "to remember",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "fern|sehen",
+            "englisch": "to watch tv",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "ab|schicken",
+            "englisch": "to send off",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "an|h\u00e4ngen",
+            "englisch": "to attach",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "aus|w\u00e4hlen",
+            "englisch": "to select",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "l\u00f6schen",
+            "englisch": "to delete",
+            "section": "present tense"
+        },
+        {
+            "deutsch": "eigen",
+            "englisch": "own",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "deshalb",
+            "englisch": "therefore",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "kaum",
+            "englisch": "hardly",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "auswendig",
+            "englisch": "by heart",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "unbedingt",
+            "englisch": "absolute/ly",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "schlimm",
+            "englisch": "nasty",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "erreichbar",
+            "englisch": "accessible",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "ausserdem",
+            "englisch": "besides",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "dann",
+            "englisch": "then",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "danach",
+            "englisch": "after that",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "schliesslich",
+            "englisch": "eventually",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "endlich",
+            "englisch": "finally",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "um",
+            "englisch": "round",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "durch",
+            "englisch": "through",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "entlagen",
+            "englisch": "along",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "daf\u00fcr",
+            "englisch": "for it",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "dagegen",
+            "englisch": "against it",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "vielleicht",
+            "englisch": "perhaps",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "geeignet",
+            "englisch": "suitable",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "passend",
+            "englisch": "fitting/appropriate",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "leider",
+            "englisch": "unfortunately",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "sogar",
+            "englisch": "even",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "eigentlich",
+            "englisch": "actually",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "innerhalb",
+            "englisch": "inside, inland",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "ausserhalb",
+            "englisch": "outside, out of town",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "satt",
+            "englisch": "satiated",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "dr\u00fcben",
+            "englisch": "over there",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "draussen",
+            "englisch": "outside",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "trotzdem",
+            "englisch": "nevertheless",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "einige",
+            "englisch": "a few",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "\u00e4hnlich",
+            "englisch": "similar to",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "fast",
+            "englisch": "almost",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "viel",
+            "englisch": "much/many (abstract stuff)",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "viele",
+            "englisch": "much/many (concrete stuff)",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "stundenlang",
+            "englisch": "for hours",
+            "section": "adverbs"
+        },
+        {
+            "deutsch": "weit",
+            "englisch": "wide, far",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "wenig",
+            "englisch": "little",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "gegenseitig",
+            "englisch": "mutual",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "schade",
+            "englisch": "shame, pity",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "bestimmt",
+            "englisch": "certain",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "zufrieden",
+            "englisch": "contented",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "rund",
+            "englisch": "round",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "bequem",
+            "englisch": "comfortable",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "deutlich",
+            "englisch": "clear",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "erstaunlich",
+            "englisch": "astonishing",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "verloren",
+            "englisch": "lost",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "streng",
+            "englisch": "strict",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "freundlich",
+            "englisch": "friendly",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "geehrte",
+            "englisch": "honoured",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "verehrte",
+            "englisch": "admired",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "langwierig",
+            "englisch": "over a long period",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "alt",
+            "englisch": "old",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "\u00e4ltere",
+            "englisch": "elderly",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "echt",
+            "englisch": "genuine",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "ziemlich",
+            "englisch": "sizeable, quite a lot",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "patschnass",
+            "englisch": "soaking wet",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "lauwarm",
+            "englisch": "lukewarm",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "vollzeit",
+            "englisch": "full-time",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "teilzeit",
+            "englisch": "part-time",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "vorteile",
+            "englisch": "advantages",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "nachteile",
+            "englisch": "disadvantages",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "unbefristet",
+            "englisch": "indefinite period, permanent",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "befristet",
+            "englisch": "fixed-term",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "fortgeschritten",
+            "englisch": "advanced",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "selbst\u00e4ndig",
+            "englisch": "independent",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "anabh\u00e4ngig",
+            "englisch": "freelance",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "ansteckend",
+            "englisch": "infectious",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "trau",
+            "englisch": "loyal",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "h\u00e4ufig",
+            "englisch": "frequent/ly",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "\u00fcbergewichtige",
+            "englisch": "overweight",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "\u00fcntergewichtige",
+            "englisch": "underweight",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "belastbar",
+            "englisch": "resilient",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "geduldig",
+            "englisch": "patient",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "fern",
+            "englisch": "far",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "nah",
+            "englisch": "near",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "rollstuhlgerecht",
+            "englisch": "wheelchair accessible",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "flach",
+            "englisch": "flat",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "ber\u00fchmt",
+            "englisch": "famous",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "n\u00f6tig",
+            "englisch": "necessary",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "schriftlich",
+            "englisch": "in writing",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "mundlich",
+            "englisch": "verbally",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "hektisch",
+            "englisch": "hectic",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "gem\u00fctlich",
+            "englisch": "cosy/leisurely",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "schmutzig",
+            "englisch": "dirty",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "sauber",
+            "englisch": "clear",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "wichtig",
+            "englisch": "important",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "unwichtig",
+            "englisch": "unimportant",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "n\u00fctzlich",
+            "englisch": "useful",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "ehrgeizig",
+            "englisch": "ambitious",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "sparsam",
+            "englisch": "thrifty",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "bescheiden",
+            "englisch": "modest",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "vertr\u00e4umt",
+            "englisch": "dreamy",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "stur",
+            "englisch": "stubborn",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "entschiedend",
+            "englisch": "decisive",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "gerecht",
+            "englisch": "fair",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "gro\u00dfz\u00fcgig",
+            "englisch": "generous",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "ernst",
+            "englisch": "earnest",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "traurig",
+            "englisch": "sad",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "fr\u00f6hlich",
+            "englisch": "happy",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "neugierig",
+            "englisch": "curious, nosy",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "leise",
+            "englisch": "quiet",
+            "section": "adjectives"
+        },
+        {
+            "deutsch": "Das Ereignis",
+            "englisch": "fact",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Zeitstrahl",
+            "englisch": "timeline",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Stelle",
+            "englisch": "job, situation",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Wohnheim",
+            "englisch": "hostel",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Angebot",
+            "englisch": "offer",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Wiesen",
+            "englisch": "meadows",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das R\u00e4tsel",
+            "englisch": "puzzle",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Werbung",
+            "englisch": "advert",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der \u00dcbersetzer",
+            "englisch": "translator",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Geruch",
+            "englisch": "smell",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Duft",
+            "englisch": "scent",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Sendung",
+            "englisch": "transmission (programme)",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Reihe",
+            "englisch": "row, series",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Folge",
+            "englisch": "episode, installment",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Zeitschrift",
+            "englisch": "magazine",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Zeitung",
+            "englisch": "newspaper",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Durchschnitt",
+            "englisch": "average",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Gespr\u00e4ch",
+            "englisch": "conversation",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Gespr\u00e4chthema",
+            "englisch": "discussion topic",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Uhrzeit",
+            "englisch": "time of day",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Verkehrsmeldung",
+            "englisch": "traffic news",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Schuld",
+            "englisch": "blame, fault",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Pause",
+            "englisch": "break",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Gesund",
+            "englisch": "health",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Ern\u00e4hrung",
+            "englisch": "nutrition",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Einstellung",
+            "englisch": "employment",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Wohlbefinden",
+            "englisch": "wellbeing",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Dauer",
+            "englisch": "duration",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Anfang",
+            "englisch": "start",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Schluss",
+            "englisch": "end",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Anschluss",
+            "englisch": "connection",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Geschlect",
+            "englisch": "gender",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Gutschein",
+            "englisch": "voucher",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Anh\u00e4nger",
+            "englisch": "trailer/pendant/label",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Wochenende",
+            "englisch": "weekend",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der See",
+            "englisch": "lake",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Meer",
+            "englisch": "sea",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Katze",
+            "englisch": "cat",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Hund",
+            "englisch": "dog",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Teller",
+            "englisch": "plate",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Baum",
+            "englisch": "tree",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Serviette",
+            "englisch": "napkin",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der L\u00f6ffel",
+            "englisch": "spoon",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Messer",
+            "englisch": "knife",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Blumenvase",
+            "englisch": "vase",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Tasse",
+            "englisch": "cup",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Ball",
+            "englisch": "ball",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Kiste",
+            "englisch": "box",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Koffer",
+            "englisch": "suitcase",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Abk\u00fcrzung",
+            "englisch": "abbreviation",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Schwiegereltern",
+            "englisch": "parents-in-law",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Enkel",
+            "englisch": "grandchild",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Urenkel",
+            "englisch": "great-grandchild",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Gefahr",
+            "englisch": "danger",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Erlaubnis",
+            "englisch": "permission",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Notwendigkeit",
+            "englisch": "necessity",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Unterricht",
+            "englisch": "class",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Ferien",
+            "englisch": "holidays",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Fach",
+            "englisch": "subject",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die F\u00e4cher",
+            "englisch": "subjects",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Noten",
+            "englisch": "school grades",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Schule",
+            "englisch": "school",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Gymnasium",
+            "englisch": "grammar school",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "die Anmeldung",
+            "englisch": "registration",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Abschluss",
+            "englisch": "conclusion, final exam",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Nachricht",
+            "englisch": "news item, message",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Abitur",
+            "englisch": "school leaving exam",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Abschnitt",
+            "englisch": "section, period",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Ausbildung",
+            "englisch": "training",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Erfahrung",
+            "englisch": "experience",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die/Der Auszubildende (Azubi)",
+            "englisch": "trainee",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Fortbildung",
+            "englisch": "further education",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Fachstudium",
+            "englisch": "course of study at tech college",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Karrierem\u00f6glichkeiten",
+            "englisch": "career possibilities",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Bescheid",
+            "englisch": "information, notification",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Steuer",
+            "englisch": "taxes",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Blumenstausse",
+            "englisch": "bouquet of flowers",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Taste",
+            "englisch": "buttons",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Tastatur",
+            "englisch": "keyboard",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Fernbedienung",
+            "englisch": "remote control",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Drucker",
+            "englisch": "printer",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Gewerkschaften",
+            "englisch": "trade union",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Betriebsrat",
+            "englisch": "workers council",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Mitteilungen",
+            "englisch": "notes",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Luftzug",
+            "englisch": "breeze",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Durchzug",
+            "englisch": "draught",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Dieb",
+            "englisch": "thief",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Ladendieb",
+            "englisch": "shoplifter",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Laden",
+            "englisch": "shop",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Ladenkette",
+            "englisch": "chain of shops",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Kette",
+            "englisch": "chain, necklace",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Eintritt",
+            "englisch": "entrance fee",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Moor",
+            "englisch": "bog, wetland",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Sumpf",
+            "englisch": "marsh",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Zusage",
+            "englisch": "consent, promise",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Absage",
+            "englisch": "refusal",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Anzug",
+            "englisch": "suit",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Vorort",
+            "englisch": "suburb",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Glatze",
+            "englisch": "bald head",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Gef\u00fchle",
+            "englisch": "feeling",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Freude",
+            "englisch": "pleasure",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Gedicht",
+            "englisch": "poem",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die L\u00f6sung",
+            "englisch": "solution",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Bewerbung",
+            "englisch": "application",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Lebenslauf",
+            "englisch": "c.v.",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Zeugniss",
+            "englisch": "Evidences' - qualification certificates and references",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Bewerbungsbild",
+            "englisch": "application photo",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Bewerbungsmappe",
+            "englisch": "application pack",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Vorstellungsgespr\u00e4ch",
+            "englisch": "interview",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Zeitumstellung",
+            "englisch": "clock change",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Laune",
+            "englisch": "mood",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Fensterbrett",
+            "englisch": "windowsill",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Straubenzieher",
+            "englisch": "screwdriver",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Hammer",
+            "englisch": "hammer",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Akku-borer",
+            "englisch": "electric drill",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Tapete",
+            "englisch": "wallpaper",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Trauung",
+            "englisch": "wedding",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Ehevertrag",
+            "englisch": "prenuptial agreement",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Standesamt",
+            "englisch": "registry office",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Ohrringe",
+            "englisch": "earrings",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Ring",
+            "englisch": "ring",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Ehering",
+            "englisch": "wedding ring",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Armband",
+            "englisch": "bangle",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Modeschmuck",
+            "englisch": "fashion jewellery",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Echtschmuck",
+            "englisch": "fine jewellery",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Traum",
+            "englisch": "dream",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Wunsch",
+            "englisch": "wish, desire",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Rede",
+            "englisch": "speech",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Hitze",
+            "englisch": "heat",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die W\u00e4rme",
+            "englisch": "warmth",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Kalte",
+            "englisch": "cold",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Pendler",
+            "englisch": "commuter",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Konditor",
+            "englisch": "pastry chef",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Quote",
+            "englisch": "rate",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Ged\u00e4chtis",
+            "englisch": "memory",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Wahl ",
+            "englisch": "choice",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Aushilfen",
+            "englisch": "temporary job",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Rentnerversicherung",
+            "englisch": "retirement insurance",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Beratung",
+            "englisch": "advice",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Stromleitung",
+            "englisch": "electric cable",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Leitung",
+            "englisch": "leadership, line, cable",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Geselle",
+            "englisch": "journeyman",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Meister",
+            "englisch": "master craftsman",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Lehrling",
+            "englisch": "apprentice",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Muster",
+            "englisch": "sample, specimen",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Probe",
+            "englisch": "test",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die T\u00e4tigkeit",
+            "englisch": "activity",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Lastkraftwagen (LKV)",
+            "englisch": "HGV",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Personnenkraftwagen (PKV)",
+            "englisch": "personal vehicle, car",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Auto",
+            "englisch": "car",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Hochzeit",
+            "englisch": "marriage",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Heirat",
+            "englisch": "wedding",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Wieterbildung",
+            "englisch": "continuing education",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Geb\u00fchr",
+            "englisch": "the charge",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Bewegung",
+            "englisch": "movement",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Fortgeschrittene",
+            "englisch": "advanced student",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Schwerpunkt",
+            "englisch": "emphasis",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die F\u00f6rderung",
+            "englisch": "sponsorship",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Handlung",
+            "englisch": "action",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Massnahme",
+            "englisch": "measure",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Teilnehmer",
+            "englisch": "participant",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Traube",
+            "englisch": "grapes",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Pfirsch",
+            "englisch": "peach",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Pflaume",
+            "englisch": "plum",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Brombeere",
+            "englisch": "blackberry",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Johanisbeeren",
+            "englisch": "redcurrant",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Zitrone",
+            "englisch": "lemon",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Mehl",
+            "englisch": "flour",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Torte",
+            "englisch": "tart",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Kuchen",
+            "englisch": "cake",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Becher",
+            "englisch": "beaker",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Getreide-produckte",
+            "englisch": "grain products",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Gewicht",
+            "englisch": "weight",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Bettler",
+            "englisch": "beggar",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Mittelschicht",
+            "englisch": "middle class",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Angestellte",
+            "englisch": "office worker",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Attest",
+            "englisch": "certificate",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Vorsorgeuntersuchung",
+            "englisch": "health check",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Nebenwirkung",
+            "englisch": "side-effects",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Abwechslung",
+            "englisch": "diversion",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Aushang",
+            "englisch": "notice",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Zeitarbeitsfirma",
+            "englisch": "temping agency",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Zushauer",
+            "englisch": "viewers",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Eigenschaft",
+            "englisch": "quality, characteristic",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Wahrheit",
+            "englisch": "truth",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die L\u00fcge",
+            "englisch": "lies",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Zweifel",
+            "englisch": "doubt",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Wrack",
+            "englisch": "wreck (car)",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Trauer",
+            "englisch": "mourning",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Nachwuchs",
+            "englisch": "offspring",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Auszeichnung",
+            "englisch": "award, honour",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die M\u00fcnze",
+            "englisch": "coins",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Geldschein",
+            "englisch": "bank note",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Schritt",
+            "englisch": "step",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Verabredung",
+            "englisch": "appointment, arrangement",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Entwicklenchancen",
+            "englisch": "development opportunities",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Schicht",
+            "englisch": "shift",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Schichtarbeit",
+            "englisch": "shiftwork",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Rollestuhl",
+            "englisch": "wheelchair",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Rampe",
+            "englisch": "ramp",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Schalter",
+            "englisch": "desk",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die F\u00e4hre",
+            "englisch": "ferry",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Abfahrt",
+            "englisch": "departure",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Abflug",
+            "englisch": "takeoff/departure by plane",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Ausnahme",
+            "englisch": "exception",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Vorbereitung",
+            "englisch": "preparation",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Notrufs\u00e4ulen",
+            "englisch": "emergency phone post",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Leitpfosten",
+            "englisch": "deliniator (crash barriers)",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Pfeile",
+            "englisch": "arrow",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Abstand",
+            "englisch": "distance, spacing",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Wahrzeichen",
+            "englisch": "symbol",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Vergn\u00fcgen",
+            "englisch": "amusement",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Vorschlag",
+            "englisch": "suggestion",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Dienstleistungsbetrieb",
+            "englisch": "service industry",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Krie\u00dfsaal",
+            "englisch": "delivery room",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Schwangere",
+            "englisch": "pregnant woman",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Untersuchungen",
+            "englisch": "investigations, examinations",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Der Sprachkurs",
+            "englisch": "language course",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Die Datei",
+            "englisch": "file",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Das Glas",
+            "englisch": "glass",
+            "section": "Nouns"
+        },
+        {
+            "deutsch": "Wo",
+            "englisch": "where",
+            "section": "Questions"
+        },
+        {
+            "deutsch": "Woher",
+            "englisch": "where from",
+            "section": "Questions"
+        },
+        {
+            "deutsch": "Wohin",
+            "englisch": "where to",
+            "section": "Questions"
+        },
+        {
+            "deutsch": "Wozu",
+            "englisch": "what for",
+            "section": "Questions"
+        },
+        {
+            "deutsch": "Wie lange",
+            "englisch": "how long",
+            "section": "Questions"
+        },
+        {
+            "deutsch": "Welche",
+            "englisch": "which",
+            "section": "Questions"
+        },
+        {
+            "deutsch": "Wie",
+            "englisch": "how",
+            "section": "Questions"
+        },
+        {
+            "deutsch": "Warum",
+            "englisch": "why",
+            "section": "Questions"
+        },
+        {
+            "deutsch": "Was",
+            "englisch": "what",
+            "section": "Questions"
+        },
+        {
+            "deutsch": "Wenn",
+            "englisch": "if",
+            "section": "Questions"
+        },
+        {
+            "deutsch": "Wann",
+            "englisch": "when",
+            "section": "Questions"
+        },
+        {
+            "deutsch": "Wem",
+            "englisch": "whom",
+            "section": "Questions"
+        },
+        {
+            "deutsch": "Wer",
+            "englisch": "who",
+            "section": "Questions"
+        },
+        {
+            "deutsch": "Worum",
+            "englisch": "what about",
+            "section": "Questions"
+        },
+        {
+            "deutsch": "Wor\u00fcber",
+            "englisch": "about which",
+            "section": "Questions"
+        },
+        {
+            "deutsch": "Worauf",
+            "englisch": "on what",
+            "section": "Questions"
+        },
+        {
+            "deutsch": "Wovon",
+            "englisch": "from what",
+            "section": "Questions"
+        },
+        {
+            "deutsch": "Wof\u00fcr",
+            "englisch": "for what/which",
+            "section": "Questions"
+        },
+        {
+            "deutsch": "sich f\u00fchlen",
+            "englisch": "to feel ",
+            "section": "Reflexive verbs"
+        },
+        {
+            "deutsch": "sich freuen",
+            "englisch": "to be pleased",
+            "section": "Reflexive verbs"
+        },
+        {
+            "deutsch": "sich vorstellen",
+            "englisch": "to introduce oneself",
+            "section": "Reflexive verbs"
+        },
+        {
+            "deutsch": "sich langweilen",
+            "englisch": "to be bored",
+            "section": "Reflexive verbs"
+        },
+        {
+            "deutsch": "sich \u00e4ndern",
+            "englisch": "to change (oneself)",
+            "section": "Reflexive verbs"
+        },
+        {
+            "deutsch": "sich waschen",
+            "englisch": "to wash",
+            "section": "Reflexive verbs"
+        },
+        {
+            "deutsch": "sich rasieren",
+            "englisch": "to shave",
+            "section": "Reflexive verbs"
+        },
+        {
+            "deutsch": "sich an|ziehen",
+            "englisch": "to get dressed",
+            "section": "Reflexive verbs"
+        },
+        {
+            "deutsch": "sich endern",
+            "englisch": "to end up ",
+            "section": "Reflexive verbs"
+        },
+        {
+            "deutsch": "sich treffen",
+            "englisch": "to meet with",
+            "section": "Reflexive verbs"
+        },
+        {
+            "deutsch": "sich unterhalten",
+            "englisch": "to discuss with",
+            "section": "Reflexive verbs"
+        },
+        {
+            "deutsch": "sich wohl|fuhlen",
+            "englisch": "to feel good",
+            "section": "Reflexive verbs"
+        },
+        {
+            "deutsch": "sich schminken",
+            "englisch": "to put on makeup",
+            "section": "Reflexive verbs"
+        }
+    ]
 }

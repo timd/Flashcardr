@@ -12,9 +12,7 @@ class LearnCollectionViewCell: UICollectionViewCell {
     
     weak var delegate: LearnCellDelegateProtocol?
 
-    @IBOutlet weak var mainGeschlecht: UILabel!
     @IBOutlet weak var mainAntwort: UILabel!
-    @IBOutlet weak var antwortGeschlect: UILabel!
     @IBOutlet weak var antwortWort: UILabel!
     
     var showEnglisch: Bool = false
@@ -34,21 +32,14 @@ class LearnCollectionViewCell: UICollectionViewCell {
     }
     
     override func prepareForReuse() {
-        mainGeschlecht.text = ""
         mainAntwort.text = ""
-        antwortGeschlect.text = ""
         antwortWort.text = ""
-        
-        antwortGeschlect.hidden = true
         antwortWort.hidden = true
     }
     
     func didTapInCell() {
-        antwortGeschlect.hidden = false
         antwortWort.hidden = false
-        
         delegate?.didRevealAnswerForCell(self)
-        
     }
     
     func updateUI() {
@@ -59,19 +50,14 @@ class LearnCollectionViewCell: UICollectionViewCell {
         self.contentView.addGestureRecognizer(doubleTap)
         
         if showEnglisch {
-            mainGeschlecht.text = ""
             mainAntwort.text = card?.englisch
-            antwortGeschlect.text = card?.geschlecht
             antwortWort.text = card?.deutsch
         } else {
-            mainGeschlecht.text = card?.geschlecht
             mainAntwort.text = card?.deutsch
-            antwortGeschlect.text = ""
             antwortWort.text = card?.englisch
         }
 
         antwortWort.hidden = true
-        antwortGeschlect.hidden = true
         
     }
     

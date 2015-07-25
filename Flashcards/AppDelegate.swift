@@ -79,17 +79,19 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             
                 let json = JSON(data: jsonData, options: NSJSONReadingOptions.allZeros, error: nil)
                 
+                var sortOrder = 0
+                
                 for result in json["words"].arrayValue {
                     
                     let newCard = Card()
                     
-                    newCard.uid = result["rank"].intValue
-                    newCard.sortOrder = newCard.uid
+                    newCard.uid = sortOrder
+                    newCard.sortOrder = sortOrder
+                    newCard.score = 0
+                    sortOrder++
                     
                     newCard.englisch = result["englisch"].stringValue
                     newCard.deutsch = result["deutsch"].stringValue
-                    newCard.geschlecht = result["geschlecht"].stringValue
-                    newCard.teil = result["teil"].stringValue
 
                     // handle sections
                     

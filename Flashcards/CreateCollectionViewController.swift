@@ -14,7 +14,7 @@ class CreateCollectionViewController: UICollectionViewController {
     let kCellIdentifier = "CardCell"
     
     private var cvSections = Realm().objects(Section)
-
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
@@ -52,7 +52,7 @@ class CreateCollectionViewController: UICollectionViewController {
     }
     
     override func collectionView(collectionView: UICollectionView, viewForSupplementaryElementOfKind kind: String, atIndexPath indexPath: NSIndexPath) -> UICollectionReusableView {
-
+        
         let header = collectionView.dequeueReusableSupplementaryViewOfKind(UICollectionElementKindSectionHeader, withReuseIdentifier: "SectionHeader", forIndexPath: indexPath) as! UICollectionReusableView
         let label = header.viewWithTag(1000) as! UILabel
 
@@ -65,16 +65,13 @@ class CreateCollectionViewController: UICollectionViewController {
     }
 
     override func collectionView(collectionView: UICollectionView, cellForItemAtIndexPath indexPath: NSIndexPath) -> UICollectionViewCell {
-
+        
         let cell = collectionView.dequeueReusableCellWithReuseIdentifier(kCellIdentifier, forIndexPath: indexPath) as! UICollectionViewCell
         
         let sectionObject = cvSections[indexPath.section]
         let cards = sectionObject.cards
 
         let card = cards[indexPath.row]
-        
-        let geschlecht = cell.viewWithTag(1000) as! UILabel
-        geschlecht.text = card.geschlecht
         
         let deutsch = cell.viewWithTag(2000) as! UILabel
         deutsch.text = card.deutsch
